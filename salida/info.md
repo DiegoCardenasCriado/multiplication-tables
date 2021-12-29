@@ -1,2 +1,2 @@
-# Información:
-Espacio donde se guardará las tablas de multiplicar creadas en los archivos de texto.
+# Information:
+Space where the multiplication tables created in the text files will be stored.
